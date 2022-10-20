@@ -1,6 +1,6 @@
 # FILE-CLONE 
 
-# Command 
+# RINE NOW
 
 rm -rf FILE-CLONE 
 
