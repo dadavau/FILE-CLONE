@@ -1,6 +1,6 @@
 # FILE-CLONE 
 
-#Rune Now
+# Command 
 
 rm -rf FILE-CLONE 
 
